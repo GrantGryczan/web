@@ -36,7 +36,7 @@
 		"mime": "^2.4.6",
 		"mongodb": "^3.5.9",
 		"node-fetch": "^2.6.1",
-		"nodemailer": "^4.7.0",
+		"nodemailer": "^6.4.16",
 		"replthis": "^1.0.2",
 		"servecube": "^1.18.0",
 		"smtp-server": "^3.9.0"
